@@ -1,5 +1,1 @@
-# Programming Languages
-
-## With JavaScript and TypeScript
-
-## By cskim, HUFS, 2022
+##202103172 정준혁 컴퓨터공학
